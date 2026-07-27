@@ -18,7 +18,8 @@ Backup of my config and similar files
 |--------------|--------------------|
 | Linux Lite   | 02/2021 - 07/2021  |
 | Archcraft    | 07/2021 - 09/2023  |
-| Debian       | 09/2023 - Present  |
+| Debian       | 09/2023 - 06/2026  |
+| NixOS        | 05/2025 - Present  |
 
 
 
@@ -28,4 +29,5 @@ Backup of my config and similar files
 | i3wm         | 02/2021 - 09/2023  |
 | KDE Plasma   | 03/2021 - Present  |
 | qtile        | 09/2023 - 11/2023  |
-| dwm          | 11/2023 - Present  |
+| dwm          | 11/2023 - 06/2026  |
+| niri         | 12/2025 - Present  |
