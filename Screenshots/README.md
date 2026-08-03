@@ -1,5 +1,10 @@
 # Screenshots
 
+### niri
+
+![](niri.png)
+
+
 ### dwm
 
 ![](dwm/dwm_1.png)
